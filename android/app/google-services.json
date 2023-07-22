@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154650710862",
+    "project_id": "qualityassurance-72d40",
+    "storage_bucket": "qualityassurance-72d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154650710862:android:4b8d7eec77369a8a94c41f",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154650710862-4j7pcl69djkl7gqiuh25ooe6h5r6fqkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIw5cSrPZzqjlyYeuIc2Iq2aRqr8zRd9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154650710862-4j7pcl69djkl7gqiuh25ooe6h5r6fqkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
