@@ -64,7 +64,6 @@ class LoginScreen extends StatelessWidget {
                 user.data!.gender!,
                 0,
                 0);
-
             await sharedPreferances.setint("UserID", user.data!.userID!);
             await sharedPreferances.setint(
                 "UserTypeID", user.data!.userTypeID!);
